@@ -3,7 +3,7 @@
 > **Predicting NBA All-Rookie Team selections using machine learning algorithms**
 
 ## Project hosted on GitHub Pages
-### https://matthew4335.github.io/MLProject/
+### https://matthew4335.github.io/NBAPredictorMLProject/
 
 ## 📖 Description
 
